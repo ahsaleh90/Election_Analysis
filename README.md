@@ -10,14 +10,14 @@ Jefferson: 10.5% (38,885)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
 
-*Denver
+* Denver
 
-*Candidate votes:
+* Candidate votes:
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 
-*Diana DeGette: 73.8% (272,892)
+* Diana DeGette: 73.8% (272,892)
 
 ## Election-Audit Summary
 The script can be used to audit not only congressional but also other elections like senatorial and local elections. The script can be modified to read a different csv file not only a specific file. The loop in the script can be written as a function that return the results of the election
