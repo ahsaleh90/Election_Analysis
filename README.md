@@ -7,9 +7,7 @@ The purpose of the election audit analysis is to help generate a report for the 
 
 * County votes:
 Jefferson: 10.5% (38,885)
-
 Denver: 82.8% (306,055)
-
 Arapahoe: 6.7% (24,801)
 
 * Denver
